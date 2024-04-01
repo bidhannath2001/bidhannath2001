@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Bidhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bidhannath2001&label=Profile%20views&color=0e75b6&style=flat" alt="bidhannath2001" /> </p>
 
-- 🌱 I’m currently learning **Web and Android Development.**
-
 - 📫 How to reach me: **Email(bidhannath2001@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
