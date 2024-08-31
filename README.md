@@ -6,8 +6,7 @@ I'm currently learning android developing & problem solving. In my free time I p
 
 Skills: C / C++ / Java
 
-- 🔭 I’m currently working on android development 
-- 🌱 I’m currently learning Android developing & problem solving 
+- 🌱 I’m currently learning Flutter & problem solving 
 - 📫 How to reach me: email: bidhannath2001@gmail.com 
 
 
