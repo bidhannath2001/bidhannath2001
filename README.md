@@ -2,7 +2,7 @@
 #### problem solver
 ![problem solver](https://github.com/bidhannath2001/bidhannath2001/assets/117301301/c262a5d6-b97d-4ada-9b0e-344a08a883c0)
 
-I'm currently learning android developing & problem solving. In my free time I play flute & try to learn something new.
+I'm currently learning Flutter & problem solving. In my free time I play flute & try to learn something new.
 
 Skills: C / C++ / Java
 
